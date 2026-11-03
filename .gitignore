@@ -1,0 +1,21 @@
+# Freebuff
+.freebuff/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+
+# SQLite
+*.db
+instance/
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
